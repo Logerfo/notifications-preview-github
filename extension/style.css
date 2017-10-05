@@ -1,4 +1,6 @@
 #NPG-dropdown {
+    overflow-y: auto;
+    max-height: calc(100vh - 60px);
     width: 750px;
     border: none;
     padding: 2px 2px 3px;
